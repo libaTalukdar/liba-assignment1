@@ -1,3 +1,3 @@
 # Assignment 1
-[Live Preview](https://github.com/libaTalukdar/liba-assignment1)
+[visit website](https://github.com/libaTalukdar/liba-assignment1)
 
